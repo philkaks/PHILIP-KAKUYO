@@ -21,13 +21,35 @@
 I am a passionate **Flutter Developer** with experience in building high-performance mobile applications.  
 I specialize in **state management (Bloc, Riverpod)**, **Firebase integrations**, and **building scalable UI/UX solutions**.  
 
-## TAPPIE  
-🚀 **Description:** A mobile app helping students calculate their university cut-off points based on past admissions data.  
-🛠️ **Tech Stack:** Flutter, Firebase Firestore, REST API  
+## Skills & Technologies  
+- **Languages:** Dart, Java, JS   
+- **Frameworks:** Flutter, Jakarta 
+- **Databases:** Firestore, SQLite, SQL
+- **Other Tools:** Git  
+
+## 📬 Contact Me 
+- 💻 [GitHub](https://github.com/philkaks)
+- 📧 philkakuyo@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/philipkakuyo)
+ 
+
+# Projects Worked On 
+## 1. TAPPIE  
+🚀 **Description:**  
+A mobile app that allows users to send payment requests via a shareable link, making it easy to request and receive money. Inspired by Tikkie, it simplifies peer-to-peer transactions and integrates with mobile money services.  
+
+🛠️ **Tech Stack:**  
+- Flutter  
+- Dart  
+- REST API  
+
 🔹 **Features:**  
-✅ Fetches real-time cut-off points  
-✅ Simple and intuitive UI  
-✅ Dark mode support  
+- ✅ Send payment requests via a link  
+- ✅ Integration with **MTN & Airtel Mobile Money**  
+- ✅ Seamless transaction processing  
+- ✅ Transaction history tracking  
+- ✅ User-friendly and intuitive UI  
+
 📷 **Screenshots:**  
 # 📸 App Screenshots  
 
@@ -51,21 +73,11 @@ I specialize in **state management (Bloc, Riverpod)**, **Firebase integrations**
 </table>
 
 
-🔗 **Live Demo:** [Download APK](#)  
-🔗 **GitHub Repo:** [GitHub Link](#)  
+🔒 **GitHub Repo:** *This repository is private. However, I can share specific insights or a code sample upon request.*  
 
 
-## 🔧 Skills & Technologies  
-- **Languages:** Dart, Java  
-- **Frameworks:** Flutter, Jakarta 
-- **Databases:** Firestore, SQLite, SQL
-- **Other Tools:** Git, CI/CD, REST APIs  
 
-
-## 📬 Contact Me  
-💼 [LinkedIn](https://linkedin.com/in/yourname)  
-📧 Email: philkakuyo@gmail.com  
-💻 [GitHub](https://github.com/philkaks)  
+ 
 
 
 
