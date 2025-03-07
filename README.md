@@ -130,6 +130,52 @@ Patients can easily schedule, reschedule, or cancel appointments, while doctors 
 
 🔒 **GitHub Repo:** *This repository is private. However, I can share specific insights or a code sample upon request.*  
 
+## **3. BizBot - Point of Sale System**  
+🛒 **Description:**  
+BizBot is a **lightweight, offline-friendly Point of Sale (POS) system** designed for small businesses. It allows users to efficiently **manage inventory, track sales, and monitor profits** using a **local SQLite database**, ensuring seamless performance without requiring an internet connection.  
+
+🛠️ **Tech Stack:**  
+- **Flutter**  
+- **Dart**  
+- **SQfLite (SQL package)**  
+- **BLOC (State Management)**  
+
+🔹 **Features:**  
+- ✅ **CRUD operations** for managing items (Create, Read, Update, Delete)  
+- ✅ **Stock Management** – Add and remove stock dynamically  
+- ✅ **Sales Tracking** – View real-time sales performance  
+- ✅ **Profit Calculation** – Monitor daily, weekly, and monthly profits  
+- ✅ **Offline Support** – Works without an internet connection  
+
+📷 **Screenshots:** 
+
+<table>
+  <tr>
+     <td><img src="https://github.com/user-attachments/assets/135ea5b8-fa59-4b4f-b367-b65781b9c4b2" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c8366bc8-72a0-406e-b930-158d515f2274" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ef3a037c-4b01-405f-b12d-a7f090694b3a" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4cdfd677-1aeb-40f9-8b06-d1e107fab6aa" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4f985940-552d-4fa1-bc30-aa7216fc6d09" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4bea2a89-cce4-4b2b-94df-9537679e8f80" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/142ec6fe-dc58-4b09-a0c8-593935b4330e" width="250"/></td>
+     <td><img src="https://github.com/user-attachments/assets/15f8e0c8-e81b-4ab5-bc91-3d9030663304" width="250"/></td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8dec3289-6210-4761-ba03-8bc7a1ff887f" width="250"/></td>
+     <td><img src="https://github.com/user-attachments/assets/7ec87f37-9e81-4f7e-b531-15f3c19b446f" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ae1948b0-a765-45a0-9d18-f31d34393a45" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7fd39638-6022-428a-855a-0e8e0e93704f" width="250"/></td>
+
+  </tr>
+</table>
+
+
+🔒 **GitHub Repo:** *This repository is private. However, I can share specific insights or a code sample upon request.*  
+
+
 
 
 
