@@ -49,8 +49,7 @@ A mobile app that allows users to send payment requests via a shareable link, ma
 - ✅ Seamless transaction processing  
 - ✅ Transaction history tracking  
 - ✅ User-friendly and intuitive UI  
-
-📷 **Screenshots:**  
+ 
 # 📸 App Screenshots  
 
 <table>
@@ -74,6 +73,65 @@ A mobile app that allows users to send payment requests via a shareable link, ma
 
 
 🔒 **GitHub Repo:** *This repository is private. However, I can share specific insights or a code sample upon request.*  
+
+## 2. Onco Appointments App  
+🚀 **Description:**  
+A mobile application designed for **booking oncology appointments**, providing a seamless experience for both **patients** and **doctors**.  
+Patients can easily schedule, reschedule, or cancel appointments, while doctors can manage bookings, view patient details, and update appointment statuses.  
+
+🛠️ **Tech Stack:**  
+- Flutter 
+- Dart  
+- Firebase  
+- GetX (State management)  
+
+🔹 **Features:**  
+### ✅ User Side  
+- Book and manage oncology appointments  
+- Receive notifications for upcoming appointments  
+- Secure authentication with Firebase  
+- View appointment history  
+
+### ✅ Admin/Doctor Side  
+- Manage patient bookings (approve, reschedule, cancel)  
+- View patient details and appointment history  
+- Dashboard with appointment analytics  
+
+# 📸 App Screenshots  
+<table>
+ <table>
+  <tr>
+    <td><img width="250" src="https://github.com/user-attachments/assets/07bfb161-ae4a-4b3d-8460-bd593c939024" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/809365ce-4d2c-4bab-882f-28c71b08ab11" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/a7910fcc-7251-413b-81b9-914de2ed3f9d" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/c74e493e-b2dd-4027-8206-d1725264b829" /></td>
+    
+  </tr>
+  <tr>
+    <td><img width="250" src="https://github.com/user-attachments/assets/dcde2b4d-6c6b-4b16-98e5-1f2aedb5b869" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/c25787e4-e5a9-471b-be28-2f3cd0aadc7b" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/737780fe-ecff-4fa4-a679-d37280cd2f24" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/1293974c-008f-47da-9e2d-ec538e931b87" /></td>
+    
+  </tr>
+  <tr>
+    <td><img width="250" src="https://github.com/user-attachments/assets/e1e72e1f-d835-435a-8ff7-c28878029496" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/4f8b42b0-0e9b-4739-9790-357b8d487c4d" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/75a21062-b6a9-4156-849e-b0cd787ecc21" /></td>
+    <td><img width="250" src="https://github.com/user-attachments/assets/55428d2b-d96e-4480-9b92-2036ad675388" /></td>
+    
+    
+  </tr>
+  <tr>
+   
+  </tr>
+</table>
+</table>
+
+🔒 **GitHub Repo:** *This repository is private. However, I can share specific insights or a code sample upon request.*  
+
+
+
 
 
 
